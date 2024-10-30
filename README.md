@@ -5,10 +5,13 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 ## PROJECT 1 - SALES ANALYSIS DASHBOARD 
 
 ### SALES INSIGHTS 
-![SALES INSIGHTS](image.png)
+
+![image](https://github.com/user-attachments/assets/91943472-f877-4978-98d5-07ec27eb3435)
+
 
 ### PRODUCT PERFORMANCE 
-![PRODUCT PERFORMANCE](image-1.png)
+
+![PRODUCT PERFORMANCE](https://github.com/user-attachments/assets/54b1b033-a428-4662-87b7-2239cfeab33c)
 
 #### PREVIEW COMING SOON!!
 
