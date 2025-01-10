@@ -3,11 +3,11 @@
 Welcome to my personal Data Analytics Portfolio repository! Here you will find a collection of projects and dashboards that demonstrate my skills and expertise in data visualization, ETL, and analytics. 
 
 ## Tech Stack 
-![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png){width=12} Power BI
-![alt text](image.png){width=12} Python
-![alt text](image-1.png) Jupyter Notebook 
-![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png){width=12} MySQL
-![image](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png){width=12} PostgreSQL
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Table of Contents 
 
