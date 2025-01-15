@@ -21,6 +21,8 @@ Welcome to my personal Data Analytics Portfolio repository! Here you will find a
 
 ### Project 1 : Sales Analysis Dashboard 
 
+This project aims to provide an easy-to-use interface for users to gain insights into sales trends, product performance trends, and customer base analysis.
+
 ## Contact Information
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at bashirrimsha22@gmail.com or connect with me on LinkedIn at Rimsha Bashir.
 
