@@ -15,13 +15,17 @@ Welcome to my personal Data Analytics Portfolio repository! Here you will find a
 ## Table of Contents 
 
 ### [Project 1 : Sales Analysis Dashboard](https://github.com/Rimsha-Bashir/Sales-Analysis-Dashboard) 
-### 
+### [Project 2 : OCD Patient Analysis](https://github.com/Rimsha-Bashir/OCD-Patient-Analysis)
 
 ## Project Details 
 
 ### Project 1 : Sales Analysis Dashboard 
 
 This project aims to provide an easy-to-use interface for users to gain insights into sales trends, product performance trends, and customer base analysis.
+
+### Project 2 : OCD Patient Analysis 
+
+This project analyzes the "OCD Patient Dataset: Demographics & Clinical Data" to uncover patterns among 1500 individuals diagnosed with OCD. It focuses on demographic details like age, gender, and education, alongside clinical and risk factors such as symptom severity (Y-BOCS/Yale Brown Obsessive-Compulsive Scale scores), co-occurring conditions, and treatment methods.
 
 ## Contact Information
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at bashirrimsha22@gmail.com or connect with me on LinkedIn at Rimsha Bashir.
