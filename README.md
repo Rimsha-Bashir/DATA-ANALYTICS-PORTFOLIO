@@ -28,7 +28,7 @@ This project aims to provide an easy-to-use interface for users to gain insights
 
 This project analyzes the "OCD Patient Dataset: Demographics & Clinical Data" to uncover patterns among 1500 individuals diagnosed with OCD. It focuses on demographic details like age, gender, and education, alongside clinical and risk factors such as symptom severity (Y-BOCS/Yale Brown Obsessive-Compulsive Scale scores), co-occurring conditions, and treatment methods.
 
-### Project 2 : OCD Patient Analysis 
+### Project 2 : Marine Microplastic : Spatio-temporal Analysis
 
 This project analyzes Spatial and Temporal Distribution of Microplastics in Marine settings by using Machine Learning Algorithms.
 
