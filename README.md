@@ -16,6 +16,7 @@ Welcome to my personal Data Analytics Portfolio repository! Here you will find a
 
 ### [Project 1 : Sales Analysis Dashboard](https://github.com/Rimsha-Bashir/Sales-Analysis-Dashboard) 
 ### [Project 2 : OCD Patient Analysis](https://github.com/Rimsha-Bashir/OCD-Patient-Analysis)
+### [Project 3 : Marine Microplastic : Spatio-temporal Analysis](https://github.com/Rimsha-Bashir/Marine-Microplastics-Analysis)
 
 ## Project Details 
 
@@ -26,6 +27,10 @@ This project aims to provide an easy-to-use interface for users to gain insights
 ### Project 2 : OCD Patient Analysis 
 
 This project analyzes the "OCD Patient Dataset: Demographics & Clinical Data" to uncover patterns among 1500 individuals diagnosed with OCD. It focuses on demographic details like age, gender, and education, alongside clinical and risk factors such as symptom severity (Y-BOCS/Yale Brown Obsessive-Compulsive Scale scores), co-occurring conditions, and treatment methods.
+
+### Project 2 : OCD Patient Analysis 
+
+This project analyzes Spatial and Temporal Distribution of Microplastics in Marine settings by using Machine Learning Algorithms.
 
 ## Contact Information
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at bashirrimsha22@gmail.com or connect with me on LinkedIn at Rimsha Bashir.
