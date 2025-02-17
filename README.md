@@ -19,13 +19,16 @@ Welcome to my personal Data Analytics Portfolio repository! Here you will find a
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Table of Contents 
 
 ### [Project 1 : Sales Analysis Dashboard](https://github.com/Rimsha-Bashir/Sales-Analysis-Dashboard) 
 ### [Project 2 : OCD Patient Analysis](https://github.com/Rimsha-Bashir/OCD-Patient-Analysis)
 ### [Project 3 : Marine Microplastic : Spatio-temporal Analysis](https://github.com/Rimsha-Bashir/Marine-Microplastics-Analysis)
+### [Project 4 : NYC Taxi Trip Data Pipeline](https://github.com/Rimsha-Bashir/Data-Engineering-Project-ZC-2025-)
 
 ## Project Details 
 
@@ -40,6 +43,10 @@ This project analyzes the "OCD Patient Dataset: Demographics & Clinical Data" to
 ### Project 2 : Marine Microplastic : Spatio-temporal Analysis
 
 This project analyzes Spatial and Temporal Distribution of Microplastics in Marine settings by using Machine Learning Algorithms.
+
+### Project 3 : NYC Taxi Trip Data Pipeline (Under Constrution 🚧)
+
+An end-to-end data pipeline using NYC Taxi Trip data using tools like PostgreSQL, Kestra, Apache Kafka, Apache Spark, Google BigQuery and DBT.
 
 ## Contact Information
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at bashirrimsha22@gmail.com or connect with me on LinkedIn at Rimsha Bashir.
