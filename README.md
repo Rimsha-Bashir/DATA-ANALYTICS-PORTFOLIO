@@ -1,6 +1,6 @@
-# DATA ANALYTICS PORTFOLIO
+# DATA ANALYTICS & ENGINEERING PORTFOLIO
 
-Welcome to my personal Data Analytics Portfolio repository! Here you will find a collection of projects and dashboards that demonstrate my skills and expertise in data visualization, ETL, and analytics. 
+Welcome to my personal Data Analytics & Engineering Portfolio repository! Here you will find a collection of projects that demonstrate my skills and expertise in data visualization, ETL, and analytics. 
 
 ## Tech Stack 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
