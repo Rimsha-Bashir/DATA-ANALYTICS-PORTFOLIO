@@ -1,6 +1,6 @@
 # DATA ANALYTICS & ENGINEERING PORTFOLIO
 
-Welcome to my personal Data Analytics & Engineering Portfolio repository! Here you will find a collection of projects that demonstrate my skills and expertise in data visualization, ETL, and analytics. 
+Welcome to my personal Data Analytics & Engineering Portfolio repository! Here you will find a collection of projects that demonstrate my skills and expertise in data visualization, ETL/ELT, and analytics. 
 
 ## Tech Stack 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -25,14 +25,14 @@ Welcome to my personal Data Analytics & Engineering Portfolio repository! Here y
 
 ## Table of Contents 
 
-### [Project 1 : Sales Analysis Dashboard](https://github.com/Rimsha-Bashir/Sales-Analysis-Dashboard) 
+### [Project 1 : Superstore Sales Analysis Dashboard](https://github.com/Rimsha-Bashir/Sales-Analysis-Dashboard) 
 ### [Project 2 : OCD Patient Analysis](https://github.com/Rimsha-Bashir/OCD-Patient-Analysis)
 ### [Project 3 : Marine Microplastic : Spatio-temporal Analysis](https://github.com/Rimsha-Bashir/Marine-Microplastics-Analysis)
-### [Project 4 : NYC Taxi Trip Data Pipeline](https://github.com/Rimsha-Bashir/Data-Engineering-Project-ZC-2025-)
+### [Project 4 : Greehouse Gases Emissions Analysis - End-to-End Pipeline](https://github.com/Rimsha-Bashir/GHG-Emissions-Analytics-Pipeline)
 
 ## Project Details 
 
-### Project 1 : Sales Analysis Dashboard 
+### Project 1 : Superstore Sales Analysis Dashboard 
 
 This project aims to provide an easy-to-use interface for users to gain insights into sales trends, product performance trends, and customer base analysis.
 
@@ -44,9 +44,9 @@ This project analyzes the "OCD Patient Dataset: Demographics & Clinical Data" to
 
 This project analyzes Spatial and Temporal Distribution of Microplastics in Marine settings by using Machine Learning Algorithms.
 
-### Project 3 : NYC Taxi Trip Data Pipeline (Under Constrution 🚧)
+### Project 3 : Greehouse Gases Emissions Analytics Pipeline
 
-An end-to-end data pipeline using NYC Taxi Trip data using tools like PostgreSQL, Kestra, Apache Kafka, Apache Spark, Google BigQuery and DBT.
+This project aims to develop and end-to-end pipeline for the ingestion, processing, and analysis of CO₂ & GHG emissions data to provide actionable insights for climate action.
 
 ## Contact Information
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at bashirrimsha22@gmail.com or connect with me on LinkedIn at Rimsha Bashir.
